@@ -1,9 +1,9 @@
 dist: xenial
 language: python
 
-addons:
-  apt_packages:
-    - yarn
+#addons:
+#  apt_packages:
+#    - yarn
     
 python:
     - 3.7
