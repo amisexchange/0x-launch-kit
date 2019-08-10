@@ -4,7 +4,6 @@ language: python
 addons:
   apt_packages:
     - yarn
-    - npx
     
 python:
     - 3.7
