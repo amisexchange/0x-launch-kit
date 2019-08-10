@@ -1,13 +1,8 @@
 [![CircleCI](https://circleci.com/gh/amisexchange/0x-launch-kit.svg?style=svg)](https://circleci.com/gh/amisexchange/0x-launch-kit/)
-
 [![Build Status](https://travis-ci.org/amisexchange/0x-launch-kit.svg?branch=master)](https://travis-ci.org/amisexchange/0x-launch-kit)
-
 [![Test Coverage Status](https://codecov.io/gh/amisexchange/0x-launch-kit/branch/master/graph/badge.svg)](https://codecov.io/gh/amisexchange/0x-launch-kit)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amisexchange/0x-launch-kit/master)
-
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amisexchange/0x-launch-kit/blob/master/0x-launch-kit.ipynb)
-
 [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/amisexchange/0x-launch-kit/blob/master/0x-launch-kit.ipynb)
 
 # 0x Launch Kit: Build an Exchange in Under a Minute 🚀📈
