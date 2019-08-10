@@ -16,4 +16,4 @@ script:
     - pip install docker-compose
     - npm install -g npx
 #    - npx @0x/launch-kit-wizard && 
-    - docker-compose up
+#    - docker-compose up
